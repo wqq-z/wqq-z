@@ -3,14 +3,9 @@
 Hi, There.
 
 ## Things
-<a href="https://github.com/thejoaqun">
- <img src="https://lanyard-profile-readme.vercel.app/api/899400183396302918"/>
-</a>
-<a href="https://github.com/thejoaqun">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejoaqun&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark"/>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejoaqun&layout=compact)](https://github.com/thejoaqun)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/899400183396302918)](https://github.com/thejoaqun)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=thejoaqun&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)](https://github.com/thejoaqun)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejoaqun&layout=compact&theme=dark)](https://github.com/thejoaqun)
 
 ## Currently Doing
 * Discord Bot (+Dashboard)
