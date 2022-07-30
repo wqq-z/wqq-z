@@ -1,6 +1,6 @@
 <h2 align='center'>Welcome To My Profile!</h2>
 
-## Info
+# Info
 Hi, There.
 
 ## Things
