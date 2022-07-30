@@ -1,3 +1,7 @@
+<h2 align='center'>Welcome To My Profile!</h2>
+
+Hi, There.
+
 ## Things
 <a href="https://github.com/thejoaqun">
 <img src="https://lanyard-profile-readme.vercel.app/api/899400183396302918"/>
