@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50px 50px 50px 50px;" alt="TheJoaqun" src="https://avatars.githubusercontent.com/u/69177565?v=4">
+<img width="150" height="150" align="left" style="float: left; border-radius: 50%; margin: 0 10px 0 0;" alt="TheJoaqun" src="https://avatars.githubusercontent.com/u/69177565?v=4">
 
 # Hi, There.
 
@@ -23,8 +23,3 @@ Nothig To Say
    <h3 align="auto">Resources</h1>
     <img src="https://skillicons.dev/icons?i=git,js,ts,bots,mongodb,vscode,lua,nodejs,powershell,markdown" />
 </div>
-
-## Contact
-
-- [[Discord]](https://discord.com/users/899400183396302918)
-- [[Twitter]](https://twitter.com/thejoaqun)
