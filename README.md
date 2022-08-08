@@ -12,12 +12,16 @@
 
 Nothig To Say
 
-## Currently Doing
+##
+
+Currently Doing
 
 - Discord Bot (+Dashboard)
 - Nothing.
 - Nothingx2.
 - Really Nothing More... :)
+
+##
 
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
