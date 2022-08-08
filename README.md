@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 45px;" alt="Sebazz" src="https://avatars.githubusercontent.com/u/69177565?v=4">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50px 50px 50px 50px;" alt="Sebazz" src="https://avatars.githubusercontent.com/u/69177565?v=4">
 
 # Hi, There.
 
