@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; border-radius: 50%; margin: 0 10px 0 0;" alt="TheJoaqun" src="https://avatars.githubusercontent.com/u/69177565?v=4">
+<img width="150" height="150" align="left" style="float: left; border-radius: 50%; margin: 0 10px 0 0;" alt="TheJoaqun" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/69177565?v=4&h=300&w=300&fit=cover&mask=square&maxage=7d">
 
 # Hi, There.
 
