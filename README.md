@@ -1,12 +1,16 @@
-<h2 align='center'>Welcome To My Profile!</h2>
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Sebazz" src="https://avatars.githubusercontent.com/u/90474850?v=4">
 
-Hi, There.
+# Hi, There.
 
-## Things
+<div>
+  <a href="https://github.com/thejoaqun"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/thejoaqun" alt="GitHub Badge"/></a>
+  <a href="https://twitter.com/thejoaqun"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+  <a href="https://discord.com/users/899400183396302918"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/899400183396302918" alt="Discord Badge"/></a>
+</div>
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/899400183396302918)](https://github.com/thejoaqun)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=thejoaqun&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)](https://github.com/thejoaqun)
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejoaqun&layout=compact&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark)](https://github.com/thejoaqun)
+---
+
+Nothig To Say
 
 ## Currently Doing
 
@@ -14,8 +18,6 @@ Hi, There.
 - Nothing.
 - Nothingx2.
 - Really Nothing More... :)
-
-## Skills
 
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
