@@ -14,7 +14,9 @@ Nothig To Say
 
 ##
 
-Currently Doing
+<div align="auto" style="display: inline-block;">
+   <h3 align="auto">Currently Doijg</h1>
+</div>
 
 - Discord Bot (+Dashboard)
 - Nothing.
