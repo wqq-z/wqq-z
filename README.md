@@ -55,4 +55,9 @@
 
 </details>
 
+<details>
+    <summary>Why To Learn Programming.</summary>
+    Just Study!
+</details>
+
 ##
