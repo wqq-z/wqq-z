@@ -10,18 +10,13 @@
 
 ---
 
-Nothig To Say
-
 ##
 
 <div align="auto" style="display: inline-block;">
-   <h3 align="auto">Currently Doijg</h1>
+   <h3 align="auto">Special Information</h1>
 </div>
 
-- Discord Bot (+Dashboard)
-- Nothing.
-- Nothingx2.
-- Really Nothing More... :)
+- None
 
 ##
 
