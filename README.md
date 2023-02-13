@@ -16,8 +16,8 @@
    <h3 align="auto">Special Information</h1>
 </div>
 
-- <details>
-<summary>Technologies</summary>
+<details>
+    <summary>Technologies</summary>
 
 ## Websites
 
@@ -47,7 +47,7 @@
 
 ## Know But Never Used
 
-- Currently None 
+- Currently None
 
 ## Want to Learn
 
