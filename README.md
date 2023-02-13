@@ -16,11 +16,43 @@
    <h3 align="auto">Special Information</h1>
 </div>
 
+- <details>
+<summary>Technologies</summary>
+
+## Websites
+
+![icons list](https://skillicons.dev/icons?i=html,css,javascript,boostrap)
+
+- HTML, CSS, JavaScript, Boostrap
+- More Idk
+
+## Lego??
+
+![icons list](https://skillicons.dev/icons?i=lua,typescript)
+
+- Lua, TypeScript
+
+## Outted For Me
+
+![icons list](https://skillicons.dev/icons?i=php)
+
+- PHP
+
+## Other Language
+
+![icons list](https://skillicons.dev/icons?i=json,nodejs)
+
+- Json
+- NodeJS
+
+## Know But Never Used
+
+- Currently None 
+
+## Want to Learn
+
 - None
 
-##
+</details>
 
-<div align="auto" style="display: inline-block;">
-   <h3 align="auto">Resources</h1>
-    <img src="https://skillicons.dev/icons?i=git,js,ts,bots,mongodb,vscode,lua,nodejs,powershell,markdown" />
-</div>
+##
