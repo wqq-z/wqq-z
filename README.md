@@ -6,9 +6,7 @@
 ```csharp
 TheJoaqun
 -------------------------
-OS: MacBook Pro (Retina, 13-inch, Mid 2014) / Windows 11
-Frameworks: React.JS, .
-Languages: JavaScript, Typescript, Lua, .
-Hobbies: Sleeping, Gaming, Eating, Sleeping...
-Discord: TheJoaqun
+Desc: I Do Random Stuffs And Intrested In BlockGames
+Setup: R9000P ( R9-7945HX/RTX4060/16GB ) // MacBook Pro (Retina, 13-inch, Mid 2014) // MK870 //
+Contact: https://www.wwww
 ```
