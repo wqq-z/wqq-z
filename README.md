@@ -11,12 +11,15 @@
 </pre>
 </div>
 
+<div align-items="stretch">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wqq-z&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqq-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<h1></h1>
+
 <div align="center">
-
-[![](https://img.shields.io/badge/Website-025FEB)](https://)
-[![](https://img.shields.io/badge/Discord-E5009A)](https://discord.com/)
-[![](https://img.shields.io/badge/Steam-FE9900)](https://steamcommunity.com/id/wqqz/)
-
-<h1 aling="center"></h1>
-
+ <a href="https://steamcommunity.com/id/wqqz">Steam</a> | <a href="https://discordapp.com/users/911042381808295937">Discord</a> | <a href="https://">Website</a>
 </div>
