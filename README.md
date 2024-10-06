@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 <p style="text-align:center;">
-🎮 Music • Games • Anime
-📖 Cibersecurity • Reverse Engineering
-♥️ Open Source
+🎮 Music • Games • Anime<br>
+📖 Cibersecurity • Reverse Engineering<br>
+♥️ Open Source<br>
 </p>
 
 # 💻 Tech Stack:
