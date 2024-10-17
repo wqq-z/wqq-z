@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm wqqZ</h1>
+<h1 align="center">👋 Hi , I'm wqqZ</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=5C25F7&center=true&vCenter=true&random=false&width=435&lines=Intrested+In+Reverse+Engineering;Coding+Is+Life;I+Like+Music;Intrested+in+Cybersecurity;Encryption+is+Crucial;%E2%99%A1+Open+Source+%E2%99%A1" alt="Typing SVG" /></a>
 </p>
@@ -7,7 +7,7 @@
   <pre>
     🎮 Music • Games • Anime
     📖 Cibersecurity • Reverse Engineering
-    ♥️ Open Source
+    ♥️ Open Source ♥️
 </pre>
 </div>
 
@@ -16,19 +16,19 @@
 
 # 📊 GitHub Stats:
 
-<p justify-content = "flex-end">
+<p align = "flex-end">
       <img src="https://github-readme-stats.vercel.app/api?username=wqq-z&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" height="230px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqq-z&langs_count=10&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="80px">
 </p>
 
 #
 
-<p justify-content = "center">
+<p align = "center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=wqq-z&theme=catppuccin_mocha&hide_border=true">
 </p>
 
 ---
-<p justify-content = "center">
+<p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&animation=grow_out_in&quoteCategory=programming">
 </p>
     
