@@ -23,7 +23,7 @@
 
 #
 
-<p align = "flex">
+<p align = "center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=wqqz&theme=catppuccin_mocha&hide_border=true">
 </p>
 
