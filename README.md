@@ -23,12 +23,12 @@
 
 #
 
-<p align = "center">
+<p justify-content = "center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=wqq-z&theme=catppuccin_mocha&hide_border=true">
 </p>
 
 ---
-<p align = "center">
+<p justify-content = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&animation=grow_out_in&quoteCategory=programming">
 </p>
     
