@@ -16,7 +16,7 @@
 
 # 📊 GitHub Stats:
 
-<p align = "flex-end">
+<p align = "center">
       <img src="https://github-readme-stats.vercel.app/api?username=wqq-z&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" height="230px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqq-z&langs_count=10&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="80px">
 </p>
