@@ -1,10 +1,10 @@
 <h3 align="center">👋 你好，我是 wqqZ</h3>
 
 <p align="center">
-    <a href="https://github.com/wqq-z/wqq-z/README.md"><span>English</span></a> |
-    <a href="https://github.com/wqq-z/wqq-z/README_es_AR.md"><span>Español</span></a> |
-    <a href="https://github.com/wqq-z/wqq-z/README_pt_BR.md"><span>Português</span></a> |
-    <a href="https://github.com/wqq-z/wqq-z/README_zh-CN.md"><span>中文</span></a>
+    <a href="https://github.com/wqq-z/wqq-z/blob/master/README.md"><span>English</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/blob/master/README_es_AR.md"><span>Español</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/blob/master/README_pt_BR.md"><span>Português</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/blob/master/README_zh-CN.md"><span>中文</span></a>
 </p>
 
 <div align="center">
