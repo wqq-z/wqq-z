@@ -2,12 +2,11 @@
 </p>
 
 <p align="center">
-        <a href=""><span>English</span></a>|
-	<a href=""><span>Español</span></a>|
-	<a href=""><span>Português</span></a>|
-	<a href=""><span>中文</span></a>
+    <a href="https://github.com/wqq-z/wqq-z/README.md"><span>English</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/README_es_AR.md"><span>Español</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/README_pt_BR.md"><span>Português</span></a> |
+    <a href="https://github.com/wqq-z/wqq-z/README_zh-CN.md"><span>中文</span></a>
 </p>
-
 <div align="center">
   <pre>
     🧋 Land on my <a href=""><span>website!</span></a> 🧋
