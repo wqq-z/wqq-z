@@ -14,7 +14,7 @@
     🎮 Music • Games • Anime 🎮
     🔭 I work on random stuff. 🔭
     🌱 I’m a begginer on all please correct me! 🌱
-    ⚡ Fun fact Loves Cibersecurity, Reverse Engineering and Random Stuff ⚡
+    ⚡ Fun fact Loves Cibersecurity, Reverse Engineering and Random Stuff Related ⚡
     ♥️ Open Source ♥️
 </pre>
 </div>
