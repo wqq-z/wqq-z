@@ -19,45 +19,83 @@
   </pre>
 </div>
 
-## 💻 我的技术
+## 💻 **Tech Stack**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](http://img.shields.io/badge/Redis-white.svg?style=for-the-badge&logo=redis)
+---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### **Databases**
+> A collection of tools for managing, storing, and querying data.
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+---
 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+### **Programming Languages**
+> Languages that I have used to build and create applications.
 
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white)
-![IntelliJ Pycharm](http://img.shields.io/badge/-IntelliJ%20PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ Rustrover](http://img.shields.io/badge/-IntelliJ%20RustRover-red?style=for-the-badge&logo=rustrover&logoColor=white)
-![VS Code Insiders](http://img.shields.io/badge/-VS%20Code-green?style=for-the-badge&logo=visualstudiocodeinsiders&logoColor=3aa7f2)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
 
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+### **Web Development**
+> Frontend and backend technologies used to create interactive websites.
+
+#### **Frontend**
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+
+#### **Backend**
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org)
+
+---
+
+### **Application Development**
+> Tools and frameworks for building robust applications.
+
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+
+---
+
+### **DevOps & Tools**
+> Technologies that streamline software development and deployment.
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+
+---
+
+### **Package Managers**
+> Tools to manage project dependencies efficiently.
+
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com)
+[![Yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com)
+[![Pnpm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io)
+
+---
+
+### **IDEs & Editors**
+> My preferred Integrated Development Environments and text editors.
+
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![RustRover](https://skillicons.dev/icons?i=rust)](https://www.jetbrains.com/rust/)
+[![VS Code Insiders](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/insiders/)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
 
 ## 📊 我的Github数据统计
 
