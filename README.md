@@ -19,45 +19,67 @@
 </pre>
 </div>
 
-## 💻 With What I Worked With
+## 💻 Tech Stack
 
+### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Redis](https://skillicons.dev/icons?i=redis)
 
-![C++](https://skillicons.dev/icons?i=cpp)
+---
+
+### Programming Languages
 ![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Lua](https://skillicons.dev/icons?i=lua)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![PHP](https://skillicons.dev/icons?i=php)
+
+---
+
+### Web Development
+#### Frontend
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-![NPM](https://skillicons.dev/icons?i=npm)
-![Yarn](https://skillicons.dev/icons?i=yarn)
-
+#### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+
+---
+
+### Application Development
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Nodemon](https://skillicons.dev/icons?i=nodemon)
 
+---
+
+### DevOps & Tools
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 
+---
+
+### Package Managers
+![NPM](https://skillicons.dev/icons?i=npm)
+![Yarn](https://skillicons.dev/icons?i=yarn)
+
+---
+
+### IDEs & Editors
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![RustRover](https://skillicons.dev/icons?i=rust)
 ![VS Code Insiders](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Docker](https://skillicons.dev/icons?i=docker)
 
 
 ## 📊 Github Stats
