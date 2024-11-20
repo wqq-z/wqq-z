@@ -19,67 +19,83 @@
 </pre>
 </div>
 
-## 💻 Tech Stack
-
-### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+## 💻 **Tech Stack**
 
 ---
 
-### Programming Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![Java](https://skillicons.dev/icons?i=java)
-![Lua](https://skillicons.dev/icons?i=lua)
-![Python](https://skillicons.dev/icons?i=python)
-![Rust](https://skillicons.dev/icons?i=rust)
-![PHP](https://skillicons.dev/icons?i=php)
+### **Databases**
+> A collection of tools for managing, storing, and querying data.
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 
 ---
 
-### Web Development
-#### Frontend
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
+### **Programming Languages**
+> Languages that I have used to build and create applications.
 
-#### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-
----
-
-### Application Development
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
 
 ---
 
-### DevOps & Tools
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
+### **Web Development**
+> Frontend and backend technologies used to create interactive websites.
+
+#### **Frontend**
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+
+#### **Backend**
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org)
 
 ---
 
-### Package Managers
-![NPM](https://skillicons.dev/icons?i=npm)
-![Yarn](https://skillicons.dev/icons?i=yarn)
+### **Application Development**
+> Tools and frameworks for building robust applications.
+
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 
 ---
 
-### IDEs & Editors
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![RustRover](https://skillicons.dev/icons?i=rust)
-![VS Code Insiders](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+### **DevOps & Tools**
+> Technologies that streamline software development and deployment.
 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+
+---
+
+### **Package Managers**
+> Tools to manage project dependencies efficiently.
+
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com)
+[![Yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com)
+[![Pnpm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io)
+
+---
+
+### **IDEs & Editors**
+> My preferred Integrated Development Environments and text editors.
+
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![RustRover](https://skillicons.dev/icons?i=rust)](https://www.jetbrains.com/rust/)
+[![VS Code Insiders](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/insiders/)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
 
 
 ## 📊 Github Stats
