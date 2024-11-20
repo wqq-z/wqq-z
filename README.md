@@ -75,4 +75,4 @@
 </p>
     
 # 
-[![](https://visitcount.itsvg.in/api?id=wqq-z&label=Profile&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wqq-z&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
